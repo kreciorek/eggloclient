@@ -11,9 +11,9 @@
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
-    "sources": "https://github.com/MeteorDevelopment/meteor-client",
-    "discord": "https://meteorclient.com/discord"
+    "issues": "https://github.com/kreciorek/eggloclient/issues",
+    "sources": "https://github.com/kreciorek/eggloclient",
+    "discord": "https://discord.gg/zfTRMmTx"
   },
   "license": "GPL-3.0",
   "icon": "assets/meteor-client/icon.png",

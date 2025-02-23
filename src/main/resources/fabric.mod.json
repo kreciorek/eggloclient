@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
-  "id": "meteor-client",
+  "name": "Egglo Client",
+  "id": "egglo-client",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "The eggliest utility mod.",
   "authors": [
     "MineGame159",
     "squidoodly",

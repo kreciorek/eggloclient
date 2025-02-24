@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "Egglo Client",
-  "id": "egglo-client",
+  "id": "meteor-client",
   "version": "${version}",
   "description": "The eggliest utility mod.",
   "authors": [
